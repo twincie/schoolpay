@@ -249,4 +249,4 @@ See `server/init.sql` for the complete schema and sample data.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under The Unlicense.
